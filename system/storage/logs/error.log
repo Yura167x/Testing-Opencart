@@ -1,0 +1,5 @@
+2020-09-02 17:54:01 - PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'yura'@'localhost' to database 'testing-webos' in W:\domains\testing-webos-2\system\library\db\mysqli.php on line 7
+2020-09-02 17:54:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in W:\domains\testing-webos-2\system\library\db\mysqli.php on line 10
+2020-09-02 17:54:01 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in W:\domains\testing-webos-2\system\library\db\mysqli.php on line 10
+2020-09-02 17:54:01 - PHP Notice:  Undefined variable: mysql in W:\domains\testing-webos-2\install\controller\install\step_3.php on line 280
+2020-09-02 17:54:01 - PHP Notice:  Trying to get property of non-object in W:\domains\testing-webos-2\install\controller\install\step_3.php on line 280
